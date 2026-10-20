@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Opera GX",
+      "hasCanvas": false,
+      "bodyTextLen": 1337,
+      "bodyTextHash": "6df849414bb3dc2d6a21693522450c8f25e75ea26f15b71e9942f56f0d2011d3",
+      "bodyTextPrefix": "OPERA GX Windows Download DESKTOP BROWSER A real browser. GX col",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Opera GX",
+      "hasCanvas": false,
+      "bodyTextLen": 1337,
+      "bodyTextHash": "6df849414bb3dc2d6a21693522450c8f25e75ea26f15b71e9942f56f0d2011d3",
+      "bodyTextPrefix": "OPERA GX Windows Download DESKTOP BROWSER A real browser. GX col",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
